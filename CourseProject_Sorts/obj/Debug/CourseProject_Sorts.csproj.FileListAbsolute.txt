@@ -1,0 +1,26 @@
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.exe.config
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.exe
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.pdb
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.AssemblyReference.cache
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.SuggestedBindingRedirects.cache
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.Properties.Resources.resources
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.GenerateResource.cache
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.CoreCompileInputs.cache
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.exe
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.pdb
+d:\Users\admin\Desktop\Курсовая. Алгоритмы и структуры обработкииданных\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.Main_form.resources
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.exe.config
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.exe
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.pdb
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.AssemblyReference.cache
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.SuggestedBindingRedirects.cache
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.Main_form.resources
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.Properties.Resources.resources
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.GenerateResource.cache
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.csproj.CoreCompileInputs.cache
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.exe
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.pdb
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.exe.manifest
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\bin\Debug\CourseProject_Sorts.application
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.exe.manifest
+d:\Users\admin\Desktop\ПГУ\Курсовая. АИОАД\CourseProject_Sorts\CourseProject_Sorts\obj\Debug\CourseProject_Sorts.application
